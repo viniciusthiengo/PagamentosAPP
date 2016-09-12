@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PagamentosAPP</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_buy">Comprar</string>
+    <string name="button_buying">"Processando pagamento..."</string>
+</resources>
