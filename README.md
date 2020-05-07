@@ -4,7 +4,7 @@ Projeto Java Android do artigo [Checkout Transparente da Web no Android](https:/
 
 Artigo que apresenta em detalhes um algoritmo completo para a implantação de um Checkout Transparente (pagamento) em qualquer aplicativo Android.
 
-A API de pagamentos utilizada é a API Web da Pagar.me.
+A API de pagamentos utilizada é a API Web de checkout transparente da Pagar.me.
 
 <img src="https://www.thiengo.com.br/img/post/normal/gttk3d25pg267jeuiqroj0epo1f3153fc0fdeab6eed811799857777c7e.jpg" width="220" alt="Tela de checkout no app Android">
 
