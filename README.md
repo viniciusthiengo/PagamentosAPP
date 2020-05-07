@@ -1,6 +1,6 @@
 # PagamentosApp (Java Android)
 
-Projeto Java Android do artigo [Input File no WebView Android](https://www.thiengo.com.br/checkout-transparente-da-web-no-android#title-3) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
+Projeto Java Android do artigo [Checkout Transparente da Web no Android](https://www.thiengo.com.br/checkout-transparente-da-web-no-android#title-3) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
 Artigo que apresenta em detalhes um algoritmo completo para a implantação de um Checkout Transparente (pagamento) em qualquer aplicativo Android.
 
